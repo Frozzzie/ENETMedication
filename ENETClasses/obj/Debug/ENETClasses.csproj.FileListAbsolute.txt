@@ -1,0 +1,10 @@
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETClasses\bin\Debug\ENETClasses.dll
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETClasses\bin\Debug\ENETClasses.pdb
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETClasses\obj\Debug\ENETClasses.csprojResolveAssemblyReference.cache
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETClasses\obj\Debug\ENETClasses.dll
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETClasses\obj\Debug\ENETClasses.pdb
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETClasses\obj\Debug\ENETClasses.csprojResolveAssemblyReference.cache
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETClasses\obj\Debug\ENETClasses.dll
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETClasses\obj\Debug\ENETClasses.pdb
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETClasses\bin\Debug\ENETClasses.dll
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETClasses\bin\Debug\ENETClasses.pdb

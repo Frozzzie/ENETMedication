@@ -1,0 +1,12 @@
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETTests\bin\Debug\ENETTests.dll
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETTests\bin\Debug\ENETTests.pdb
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETTests\obj\Debug\ENETTests.csprojResolveAssemblyReference.cache
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETTests\obj\Debug\ENETTests.dll
+c:\users\shane\documents\visual studio 2013\Projects\ENETTests\ENETTests\obj\Debug\ENETTests.pdb
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\obj\Debug\ENETTests.csprojResolveAssemblyReference.cache
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\obj\Debug\ENETTests.dll
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\bin\Debug\ENETTests.dll
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\bin\Debug\ENETTests.pdb
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\bin\Debug\ENETClasses.dll
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\bin\Debug\ENETClasses.pdb
+C:\Users\SHAYNE\Documents\Visual Studio 2013\Projects\ENETMedication\ENETTests\obj\Debug\ENETTests.pdb
