@@ -39,6 +39,7 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="Employee\Doctor.cs" />
     <Compile Include="EntityInteraction\IReportable.cs" />
     <Compile Include="EntityInteraction\Reports\DistributionCentreLosses.cs" />
     <Compile Include="EntityInteraction\Reports\DoctorActivity.cs" />

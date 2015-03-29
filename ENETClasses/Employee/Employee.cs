@@ -17,5 +17,17 @@ namespace ENETClasses.Employee
         public string EmailAddress { get; private set; }
 
         public DistributionCentre CentreOfWork { get; private set; }
+
+        public Employee(string firstname, string lastname, string username)
+        {
+            FirstName = firstname;
+            LastName = lastname;
+            UserName = username;
+        }
+
+        public bool login(string p)
+        {
+            return true; // AAA security
+        }
     }
 }

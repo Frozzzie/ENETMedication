@@ -1,4 +1,6 @@
-﻿using ENETClasses.Package;
+﻿using ENETClasses.EntityInteraction;
+using ENETClasses.EntityInteraction.Reports;
+using ENETClasses.Package;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -7,7 +9,7 @@ using System.Threading.Tasks;
 
 namespace ENETClasses.LocationClasses
 {
-    public class DistributionCentre : ILocation
+    public class DistributionCentre : ILocation, IReportable
     {
         public List<PackageItem> Packages { get; set; }
         public string Name { get; private set; }
@@ -21,5 +23,10 @@ namespace ENETClasses.LocationClasses
             PhoneNumber = phonenumber;
         }
 
+
+        public T GenerateReport<T>() where T : EntityInteraction.Reports.IReport
+        {
+            return default(T);
+        }
     }
 }
